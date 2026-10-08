@@ -1,0 +1,1 @@
+export default function Loading(){return <div style={{minHeight:"100vh",display:"grid",placeItems:"center",background:"#f4f1ea",color:"#16130f",fontFamily:"Arial"}}><div style={{textAlign:"center"}}><div style={{fontSize:12,letterSpacing:".22em",marginBottom:12}}>MSK</div><div style={{fontSize:10,letterSpacing:".12em",opacity:.6}}>LOADING EXPERIENCE...</div></div></div>}
